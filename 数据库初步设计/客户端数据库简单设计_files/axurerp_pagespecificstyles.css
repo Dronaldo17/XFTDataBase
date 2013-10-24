@@ -1,0 +1,307 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../客户端数据库简单设计_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:430px;
+    top:28px;
+    width:260px;
+    height:88px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:266px;
+    height:94px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:256px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../客户端数据库简单设计_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:124px;
+    top:273px;
+    width:260px;
+    height:60px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:266px;
+    height:66px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:256px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../客户端数据库简单设计_files/u2_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:430px;
+    top:273px;
+    width:260px;
+    height:60px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:266px;
+    height:66px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:256px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../客户端数据库简单设计_files/u2_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:753px;
+    top:273px;
+    width:260px;
+    height:60px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:266px;
+    height:66px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:256px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_line {
+    background-image: url('../客户端数据库简单设计_files/u8_line.png');
+}
+
+.u8_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:72px;
+}
+
+.u8 {
+    position:absolute;
+    left:555px;
+    top:98px;
+    width:10px;
+    height:72px;
+    
+}
+
+.u9_line {
+    background-image: url('../客户端数据库简单设计_files/u9_line.png');
+}
+
+.u9_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u9 {
+    position:absolute;
+    left:460px;
+    top:170px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u10_line {
+    background-image: url('../客户端数据库简单设计_files/u10_line.png');
+}
+
+.u10_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u10 {
+    position:absolute;
+    left:260px;
+    top:170px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u11_line {
+    background-image: url('../客户端数据库简单设计_files/u11_line.png');
+}
+
+.u11_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u11 {
+    position:absolute;
+    left:660px;
+    top:170px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u12_line {
+    background-image: url('../客户端数据库简单设计_files/u12_line.png');
+}
+
+.u12_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:72px;
+}
+
+.u12 {
+    position:absolute;
+    left:250px;
+    top:180px;
+    width:10px;
+    height:72px;
+    
+}
+
+.u13_line {
+    background-image: url('../客户端数据库简单设计_files/u13_line.png');
+}
+
+.u13_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:72px;
+}
+
+.u13 {
+    position:absolute;
+    left:555px;
+    top:180px;
+    width:10px;
+    height:72px;
+    
+}
+
+.u14_line {
+    background-image: url('../客户端数据库简单设计_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:72px;
+}
+
+.u14 {
+    position:absolute;
+    left:860px;
+    top:180px;
+    width:10px;
+    height:72px;
+    
+}
+

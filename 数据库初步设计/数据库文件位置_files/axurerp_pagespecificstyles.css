@@ -1,0 +1,671 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../数据库文件位置_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:461px;
+    top:17px;
+    width:246px;
+    height:68px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:252px;
+    height:74px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:242px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../数据库文件位置_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:483px;
+    top:146px;
+    width:203px;
+    height:62px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:209px;
+    height:68px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:199px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_line {
+    background-image: url('../数据库文件位置_files/u4_line.png');
+}
+
+.u4_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:52px;
+}
+
+.u4 {
+    position:absolute;
+    left:579px;
+    top:218px;
+    width:10px;
+    height:52px;
+    
+}
+
+.u5_line {
+    background-image: url('../数据库文件位置_files/u5_line.png');
+}
+
+.u5_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:376px;
+    height:3px;
+}
+
+.u5 {
+    position:absolute;
+    left:396px;
+    top:280px;
+    width:376px;
+    height:10px;
+    
+}
+
+.u6_line {
+    background-image: url('../数据库文件位置_files/u6_line.png');
+}
+
+.u6_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:81px;
+}
+
+.u6 {
+    position:absolute;
+    left:371px;
+    top:297px;
+    width:10px;
+    height:81px;
+    
+}
+
+.u7_normal {
+    background-image: url('../数据库文件位置_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:301px;
+    top:388px;
+    width:150px;
+    height:78px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:84px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:146px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_line {
+    background-image: url('../数据库文件位置_files/u9_line.png');
+}
+
+.u9_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:88px;
+}
+
+.u9 {
+    position:absolute;
+    left:772px;
+    top:290px;
+    width:10px;
+    height:88px;
+    
+}
+
+.u10_normal {
+    background-image: url('../数据库文件位置_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:699px;
+    top:388px;
+    width:155px;
+    height:78px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:161px;
+    height:84px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:151px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../数据库文件位置_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:300px;
+    top:554px;
+    width:152px;
+    height:75px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:158px;
+    height:81px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:148px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_line {
+    background-image: url('../数据库文件位置_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:68px;
+}
+
+.u14 {
+    position:absolute;
+    left:371px;
+    top:476px;
+    width:10px;
+    height:68px;
+    
+}
+
+.u15_line {
+    background-image: url('../数据库文件位置_files/u15_line.png');
+}
+
+.u15_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:70px;
+}
+
+.u15 {
+    position:absolute;
+    left:371px;
+    top:639px;
+    width:10px;
+    height:70px;
+    
+}
+
+.u16_line {
+    background-image: url('../数据库文件位置_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:376px;
+    height:3px;
+}
+
+.u16 {
+    position:absolute;
+    left:195px;
+    top:719px;
+    width:376px;
+    height:10px;
+    
+}
+
+.u17_line {
+    background-image: url('../数据库文件位置_files/u17_line.png');
+}
+
+.u17_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:60px;
+}
+
+.u17 {
+    position:absolute;
+    left:166px;
+    top:729px;
+    width:10px;
+    height:60px;
+    
+}
+
+.u18_line {
+    background-image: url('../数据库文件位置_files/u18_line.png');
+}
+
+.u18_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:60px;
+}
+
+.u18 {
+    position:absolute;
+    left:583px;
+    top:729px;
+    width:10px;
+    height:60px;
+    
+}
+
+.u19_line {
+    background-image: url('../数据库文件位置_files/u19_line.png');
+}
+
+.u19_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:60px;
+}
+
+.u19 {
+    position:absolute;
+    left:371px;
+    top:729px;
+    width:10px;
+    height:60px;
+    
+}
+
+.u20_normal {
+    background-image: url('../数据库文件位置_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:105px;
+    top:799px;
+    width:136px;
+    height:59px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:142px;
+    height:65px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:132px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../数据库文件位置_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:313px;
+    top:799px;
+    width:139px;
+    height:59px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:145px;
+    height:65px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:135px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../数据库文件位置_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:528px;
+    top:799px;
+    width:138px;
+    height:59px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:144px;
+    height:65px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:134px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_line {
+    background-image: url('../数据库文件位置_files/u26_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:76px;
+}
+
+.u26 {
+    position:absolute;
+    left:165px;
+    top:868px;
+    width:10px;
+    height:76px;
+    
+}
+
+.u27_normal {
+    background-image: url('../数据库文件位置_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:142px;
+    top:954px;
+    width:60px;
+    height:88px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:94px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:56px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_line {
+    background-image: url('../数据库文件位置_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:76px;
+}
+
+.u29 {
+    position:absolute;
+    left:380px;
+    top:868px;
+    width:10px;
+    height:76px;
+    
+}
+
+.u30_line {
+    background-image: url('../数据库文件位置_files/u30_line.png');
+}
+
+.u30_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:67px;
+}
+
+.u30 {
+    position:absolute;
+    left:591px;
+    top:868px;
+    width:10px;
+    height:67px;
+    
+}
+
+.u31_normal {
+    background-image: url('../数据库文件位置_files/u27_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:357px;
+    top:954px;
+    width:60px;
+    height:88px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:94px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:56px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../数据库文件位置_files/u27_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:568px;
+    top:954px;
+    width:60px;
+    height:88px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:94px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:56px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

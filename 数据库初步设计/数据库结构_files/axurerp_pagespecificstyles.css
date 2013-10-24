@@ -1,0 +1,1053 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../数据库结构_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:545px;
+    top:151px;
+    width:100px;
+    height:60px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:96px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../数据库结构_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:565px;
+    top:46px;
+    width:60px;
+    height:80px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:86px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:56px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../数据库结构_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:352px;
+    top:237px;
+    width:101px;
+    height:90px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:107px;
+    height:96px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:38px;
+    width:97px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../数据库结构_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:732px;
+    top:237px;
+    width:107px;
+    height:90px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:96px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:38px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../数据库结构_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:366px;
+    top:151px;
+    width:72px;
+    height:60px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:78px;
+    height:66px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:68px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../数据库结构_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:738px;
+    top:151px;
+    width:94px;
+    height:60px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:100px;
+    height:66px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:90px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../数据库结构_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:538px;
+    top:237px;
+    width:114px;
+    height:90px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:120px;
+    height:96px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:38px;
+    width:110px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../数据库结构_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:166px;
+    top:463px;
+    width:122px;
+    height:60px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:66px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:118px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../数据库结构_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:492px;
+    top:463px;
+    width:147px;
+    height:60px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:153px;
+    height:66px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:143px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../数据库结构_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:913px;
+    top:463px;
+    width:153px;
+    height:60px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:159px;
+    height:66px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:149px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../数据库结构_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:456px;
+    top:363px;
+    width:230px;
+    height:60px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:236px;
+    height:66px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:226px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_line {
+    background-image: url('../数据库结构_files/u22_line.png');
+}
+
+.u22_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:52px;
+}
+
+.u22 {
+    position:absolute;
+    left:222px;
+    top:533px;
+    width:10px;
+    height:52px;
+    
+}
+
+.u23_normal {
+    background-image: url('../数据库结构_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:78px;
+    top:654px;
+    width:113px;
+    height:50px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:119px;
+    height:56px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:109px;
+    height:61px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../数据库结构_files/u16_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:491px;
+    top:605px;
+    width:147px;
+    height:60px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:153px;
+    height:66px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:18px;
+    width:143px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../数据库结构_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:264px;
+    top:653px;
+    width:115px;
+    height:50px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:121px;
+    height:56px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:111px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_line {
+    background-image: url('../数据库结构_files/u29_line.png');
+}
+
+.u29_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u29 {
+    position:absolute;
+    left:139px;
+    top:595px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u30_line {
+    background-image: url('../数据库结构_files/u30_line.png');
+}
+
+.u30_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:33px;
+}
+
+.u30 {
+    position:absolute;
+    left:111px;
+    top:834px;
+    width:10px;
+    height:33px;
+    
+}
+
+.u31_line {
+    background-image: url('../数据库结构_files/u31_line.png');
+}
+
+.u31_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:33px;
+}
+
+.u31 {
+    position:absolute;
+    left:339px;
+    top:605px;
+    width:10px;
+    height:33px;
+    
+}
+
+.u32_normal {
+    background-image: url('../数据库结构_files/u0_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:84px;
+    top:814px;
+    width:100px;
+    height:60px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../数据库结构_files/u0_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:264px;
+    top:814px;
+    width:100px;
+    height:60px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_line {
+    background-image: url('../数据库结构_files/u36_line.png');
+}
+
+.u36_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:88px;
+}
+
+.u36 {
+    position:absolute;
+    left:316px;
+    top:713px;
+    width:10px;
+    height:88px;
+    
+}
+
+.u37_line {
+    background-image: url('../数据库结构_files/u37_line.png');
+}
+
+.u37_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:52px;
+}
+
+.u37 {
+    position:absolute;
+    left:560px;
+    top:533px;
+    width:10px;
+    height:52px;
+    
+}
+
+.u38_line {
+    background-image: url('../数据库结构_files/u38_line.png');
+}
+
+.u38_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:52px;
+}
+
+.u38 {
+    position:absolute;
+    left:559px;
+    top:681px;
+    width:10px;
+    height:52px;
+    
+}
+
+.u39_line {
+    background-image: url('../数据库结构_files/u39_line.png');
+}
+
+.u39_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:236px;
+    height:3px;
+}
+
+.u39 {
+    position:absolute;
+    left:450px;
+    top:743px;
+    width:236px;
+    height:10px;
+    
+}
+
+.u40_line {
+    background-image: url('../数据库结构_files/u40_line.png');
+}
+
+.u40_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:33px;
+}
+
+.u40 {
+    position:absolute;
+    left:443px;
+    top:753px;
+    width:10px;
+    height:33px;
+    
+}
+
+.u41_line {
+    background-image: url('../数据库结构_files/u41_line.png');
+}
+
+.u41_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:33px;
+}
+
+.u41 {
+    position:absolute;
+    left:682px;
+    top:753px;
+    width:10px;
+    height:33px;
+    
+}
+
+.u42_line {
+    background-image: url('../数据库结构_files/u42_line.png');
+}
+
+.u42_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:33px;
+}
+
+.u42 {
+    position:absolute;
+    left:559px;
+    top:753px;
+    width:10px;
+    height:33px;
+    
+}
+
+.u43_normal {
+    background-image: url('../数据库结构_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:507px;
+    top:796px;
+    width:107px;
+    height:40px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:46px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:103px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../数据库结构_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:638px;
+    top:796px;
+    width:97px;
+    height:34px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:103px;
+    height:40px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:93px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../数据库结构_files/u0_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:514px;
+    top:944px;
+    width:100px;
+    height:60px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_line {
+    background-image: url('../数据库结构_files/u49_line.png');
+}
+
+.u49_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:88px;
+}
+
+.u49 {
+    position:absolute;
+    left:559px;
+    top:846px;
+    width:10px;
+    height:88px;
+    
+}
+
+.u50_line {
+    background-image: url('../数据库结构_files/u50_line.png');
+}
+
+.u50_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:33px;
+}
+
+.u50 {
+    position:absolute;
+    left:130px;
+    top:605px;
+    width:10px;
+    height:33px;
+    
+}
+
+.u51_line {
+    background-image: url('../数据库结构_files/u51_line.png');
+}
+
+.u51_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:88px;
+}
+
+.u51 {
+    position:absolute;
+    left:129px;
+    top:709px;
+    width:10px;
+    height:88px;
+    
+}
+
+.u52_normal {
+    background-image: url('../数据库结构_files/u0_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:932px;
+    top:634px;
+    width:100px;
+    height:60px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:66px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:96px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_line {
+    background-image: url('../数据库结构_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:88px;
+}
+
+.u54 {
+    position:absolute;
+    left:984px;
+    top:533px;
+    width:10px;
+    height:88px;
+    
+}
+
+.u55_normal {
+    background-image: url('../数据库结构_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:398px;
+    top:796px;
+    width:88px;
+    height:40px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:94px;
+    height:46px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:84px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
